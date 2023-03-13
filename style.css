@@ -37,9 +37,6 @@ body{
     background-position: bottom;
     flex-direction: column;
     justify-content: end;
-   
-    
-   
 }
 
 
@@ -151,7 +148,6 @@ img{
     gap:36px;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    align-self: flex-end;
     
 }
 
